@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/[id]": "pages/[id].js",
+  "/about": "pages/about.html",
+  "/account": "pages/account.html",
+  "/api/image/[id]": "pages/api/image/[id].js",
+  "/api/oembed": "pages/api/oembed.js",
+  "/embed/[id]": "pages/embed/[id].js",
+  "/embed": "pages/embed.html",
+  "/": "pages/index.html",
+  "/snippets": "pages/snippets.html",
+  "/404": "pages/404.html"
+}

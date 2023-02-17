@@ -1,0 +1,52 @@
+{
+  "..\\components\\Carbon.js -> ../lib/highlight-languages": {
+    "id": 87913,
+    "files": [
+      "static/chunks/910.598c19d8e3964441.js",
+      "static/chunks/913.f01f3b1556f430ca.js"
+    ]
+  },
+  "..\\components\\Carbon.js -> ./SelectionEditor": {
+    "id": 18939,
+    "files": [
+      "static/chunks/758-79b4f1b284e17a18.js",
+      "static/chunks/939.9a12be94dbacc24e.js"
+    ]
+  },
+  "..\\components\\Carbon.js -> ./svg/Watermark": {
+    "id": 46376,
+    "files": [
+      "static/chunks/376.3c92590dcf0d862a.js"
+    ]
+  },
+  "..\\components\\Editor.js -> ./SnippetToolbar": {
+    "id": 24742,
+    "files": [
+      "static/chunks/742.6d3a3fc2fafd1bba.js"
+    ]
+  },
+  "..\\components\\Themes\\index.js -> ./ThemeCreate": {
+    "id": 89079,
+    "files": [
+      "static/chunks/79.eb7c95dab0e45c3e.js"
+    ]
+  },
+  "..\\lib\\util.js -> prettier/parser-babel": {
+    "id": 28182,
+    "files": [
+      "static/chunks/82c1d43a.14dbb1cb481e1c5f.js"
+    ]
+  },
+  "..\\lib\\util.js -> prettier/standalone": {
+    "id": 73945,
+    "files": [
+      "static/chunks/37bf9728.5bae384841dcde6d.js"
+    ]
+  },
+  "account.js -> ../components/Billing": {
+    "id": 50688,
+    "files": [
+      "static/chunks/688.a1d92e0da26b197d.js"
+    ]
+  }
+}
