@@ -8,12 +8,12 @@
     "node": ">=12"
   },
   "scripts": {
-    "predeploy": "npm run build",
+   
     "dev": "next",
     "build": "next build",
     "start": "next start",
     "test:e2e": "npm run cy:run --",
-    "deploy": "gh-pages -d build",
+   
     "prettier": "prettier --config .prettierrc --write {.,components,lib,pages}/*.js {components,lib,pages}/**/*.js",
     "lint": "next lint --dir .",
     "contrib:add": "all-contributors add",
